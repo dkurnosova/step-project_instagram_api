@@ -1,0 +1,8 @@
+.vscode/**
+.DS_Store/
+.idea/**/*
+*.iml
+*.xml
+
+node_modules
+package-lock.json
